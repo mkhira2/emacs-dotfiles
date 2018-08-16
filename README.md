@@ -13,4 +13,6 @@ Preferences include:
 
 ## Installation
 
-Follow the install instructions at [spacemacs.org](spacemacs.org) and replace your .spacemacs file with this one.
+Follow the install instructions at [spacemacs.org] and replace your .spacemacs file with this one.
+
+[spacemacs.org]:http://spacemacs.org
